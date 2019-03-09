@@ -7,4 +7,4 @@
 
 # 赞助佐须之男
 
-![](http://forgotfun.org/zb_users/upload/2019/02/201902131550034647280220.png)
+![](https://raw.githubusercontent.com/ForgotFun/QosDocs/master/donate.png)
